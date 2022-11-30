@@ -1,0 +1,13 @@
+img{
+    height: 50px;
+    margin-left: 10px;
+    margin-right: 5px ;
+}
+
+img:hover{
+    cursor: pointer;
+}
+
+span{
+    margin-left: 1480px;
+}

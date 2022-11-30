@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&family=Noto+Serif:ital,wght@1,700&display=swap');
+
+p{
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+    font-size: 16px;
+}
+
+div{
+    text-align: center;
+}
+
+button{
+    font-size: 25px;
+    box-shadow: 5px 5px 5px 2px;
+}
